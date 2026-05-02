@@ -1,7 +1,7 @@
 # 🚢 Titanic Dataset - Exploratory Data Analysis (EDA)
 
 ## Preview
-![banner](https://medium.com/data-science/machine-learning-with-the-titanic-dataset-7f6909e58280)
+![banner](https://github.com/CodeRei067/data-science-1/blob/566bf446124adbad6f54ce7721431ddef001bd96/1_qTqs-DD_i5dqUtTuaVzfWw.png)
 
 ## 📌 Project Overview
 Project ini bertujuan untuk menganalisis faktor-faktor yang mempengaruhi tingkat keselamatan penumpang pada kapal Titanic. Analisis dilakukan menggunakan Exploratory Data Analysis (EDA) untuk menemukan pola dari data penumpang.
